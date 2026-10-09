@@ -1,0 +1,6 @@
+{
+  "Name": "ACME Dispatcher RE-Framework",
+  "ProjectType": "Process",
+  "Description": "Gathering the ACME data and adding it to the queue",
+  "MainFile": "Main.xaml"
+}

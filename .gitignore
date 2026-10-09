@@ -1,0 +1,32 @@
+# Local UiPath state and caches
+
+.local/
+.storage/
+.objects/
+.entities/
+.screenshots/
+Exceptions_Screenshots/
+.tmh/
+.templates/
+
+# Temporary and generated project data
+
+Data/Input/
+Data/Output/
+Data/Temp/
+
+# Local machine and editor files
+
+Thumbs.db
+.DS_Store
+*.user
+*.tmp
+*.log
+
+# Private UiPath configuration
+
+Data/Config.xlsx
+
+
+# Local UiPath project and IDE settings
+.settings/
